@@ -14,4 +14,4 @@ Outguess is an advanced steganography tool for mac. Outguess will conceal your d
 
 ## More information 
 
-http://www.rbcafe.com/software/outguess/
+https://www.rbcafe.com/software/outguess/
