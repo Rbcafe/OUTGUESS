@@ -5,6 +5,6 @@
 - Fully 64-bit.
 - The minimal system is set to 10.11.
 - New Right-Click for the image.
-- Correction of the menus
+- Correction of the menus.
 - Bug fixes.
 - Code optimization.
